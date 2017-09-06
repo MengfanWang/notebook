@@ -1,0 +1,14 @@
+# print to a file
+
+[command] > [file]
+
+# find file path
+
+find [path] -name [file]
+
+# print by page
+
+less
+# function + up/down to read by page
+
+
