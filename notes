@@ -1,0 +1,1000 @@
+  222  ls
+  223  cd Desktop
+  224  pwd
+  225  cat ./Tommy_Asin_Schema| cut -d ',' -f2 > Tommy_Asin_Schema_v2
+  226  ls
+  227  cat ./Tommy_Asin_Schema | cut -d ',' -f2 > ./Tommy_Asin_Schema_v2.txt
+  228  cat ./Tommy_Asin_Schema | cut -d ',' -f2 > ./Tommy_Asin_Schema_v3.txt
+  229  vim Tommy_Asin_Schema_v3.txt
+  230  cat Tommy_Asin_Schema.txt | tr -d ' ' | cut -d',' -f2
+  231  cat ./Tommy_Asin_Schema.txt | tr -d ' ' | cut -d',' -f2
+  232  ls
+  233  cat ./Tommy_Asin_Schema | tr -d ' ' | cut -d',' -f2
+  234  vim Tommy_Asin_Schema
+  235  cd Desktop
+  236  vim D_PN_FC_REPLEN_CONFIG.txt
+  237  vim D_PN_FC_REPLEN_CONFIG_File.tsv 
+  238  vim D_PN_FC_REPLEN_CONFIG_File.tsv 
+  239  vim D_PN_FC_REPLEN_CONFIG_File.tsv 
+  240  sed -i 's/^M//' D_PN_FC_REPLEN_CONFIG_File.tsv 
+  241  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  242  brew install dos2unix
+  243  ls
+  244  dos2unix D_PN_FC_REPLEN_CONFIG_File.tsv 
+  245  vim D_PN_FC_REPLEN_CONFIG_File.tsv 
+  246  dos2unix D_PN_FC_REPLEN_CONFIG_File.tsv 
+  247  vim D_PN_FC_REPLEN_CONFIG_File.tsv 
+  248  vim D_PN_FC_REPLEN_CONFIG_File.tsv 
+  249  dos2unix -n D_PN_FC_REPLEN_CONFIG_File.tsv 
+  250  vim D_PN_FC_REPLEN_CONFIG_File.tsv 
+  251  dos2unix -n D_PN_FC_REPLEN_CONFIG_File.tsv D_PN_FC_REPLEN_CONFIG_File.tsv 
+  252  vim D_PN_FC_REPLEN_CONFIG_File.tsv 
+  253  dos2unix -n D_PN_FC_REPLEN_CONFIG_File.tsv D_PN_FC_REPLEN_CONFIG_File_unix.tsv 
+  254  vim D_PN_FC_REPLEN_CONFIG_File_unix.tsv 
+  255  mac2unix -n D_PN_FC_REPLEN_CONFIG_File.tsv D_PN_FC_REPLEN_CONFIG_File_unix.tsv 
+  256  vim D_PN_FC_REPLEN_CONFIG_File_unix.tsv 
+  257  dev
+  258  cdw
+  259  pwd
+  260  ls
+  261  cd Desktop
+  262  ls
+  263  scp D_PN_FC_REPLEN_CONFIG-3.txt mengfanw@dev-dsk-mengfanw-2a-736c2399.us-west-2.amazon.com:~
+  264  dev
+  265  cd Desktop
+  266  pdw
+  267  pwd
+  268  scp D_PN_FC_REPLEN_CONFIG-3.txt mengfanw@dev-dsk-mengfanw-2a-736c2399.us-west-2.amazon.com:~
+  269  dev
+  270  dev
+  271  dev
+  272  dev
+  273  /apollo/env/DatanetService(Kerberos|AAA)Client/bin/datanet --method POST --field jobRuns --uri jobRun/-/10928123/2017-06-13
+  274  dev
+  275  dev
+  276  wq
+  277  cd Desktop/
+  278  vim D_PN_FC_REPLEN_CONFIG_File.tsv 
+  279  mac2unix -n D_PN_FC_REPLEN_CONFIG_File.tsv D_PN_FC_REPLEN_CONFIG_File.tsv 
+  280  vim D_PN_FC_REPLEN_CONFIG_File.tsv 
+  281  scp Force_Dependency.sh mengfanw@dev-dsk-mengfanw-2a-736c2399.us-west-2.amazon.com:~
+  282  dev
+  283  dev
+  284  dev
+  285  wq
+  286  dev
+  287  dev
+  288  dev
+  289  cd Desktop
+  290  vim REPLEN_CONFIG_620.txt 
+  291  mac2unix REPLEN_CONFIG_620.txt 
+  292  vim REPLEN_CONFIG_620.txt 
+  293  vim REPLEN_CONFIG_620.txt 
+  294  ls
+  295  cd Desktop
+  296  ls
+  297  vim lead_time_6_6.txt 
+  298  dev
+  299  cd Desktop
+  300  vim REPLEN_CONFIG_620.txt 
+  301  vim REPLEN_CONFIG_620.txt 
+  302  vim lead_time_6_6.txt
+  303  dve
+  304  dev
+  305  ls
+  306  cd Desktop
+  307  ls
+  308  vim jour
+  309  dev
+  310  dev
+  311  dev
+  312  pwd
+  313  cd Desktop
+  314  ls
+  315  vim FC_REPLEN_CONFIG_620 
+  316  dev
+  317  dev
+  318  dev
+  319  dev
+  320  vi ~/Desktop/untitled.c 
+  321  vim ~/Desktop/untitled.c 
+  322  dev
+  323  cd Desktop
+  324  mv problems-find find
+  325  cd find
+  326  ls
+  327  pwd
+  328  dev
+  329  cd Desktop
+  330  pwd
+  331  ls
+  332  scp o-pn-ape-subcat-mapping.txt mengfanw@dev-dsk-mengfanw-2a-736c2399.us-west-2.amazon.com:~
+  333  cd Desktop/
+  334  ls
+  335  vim file
+  336  vim file.txt 
+  337  vim file.txt 
+  338  vim ape_data 
+  339  vim ape_data_2
+  340  vim ape_na
+  341  vim ape_fe
+  342  vim ape_fe
+  343  ls
+  344  vim ape_fe
+  345  vim ape_f
+  346  vim ape_fe
+  347  vim ape_fe_v2 
+  348  dos2unix ape_fe_v2
+  349  vim ape_fe_v2 
+  350  vim ape_fe_v2 
+  351  cd Desktop
+  352  ls
+  353  vim APE\ Mapping\ Table\ Update\ JP\ Data.txt 
+  354  ls
+  355  vim Workbook3.txt 
+  356  vim Workbook3.txt 
+  357  vim Workbook3.txt 
+  358  vim Workbook3.txt 
+  359  vim Workbook3.txt 
+  360  vim Workbook3.txt 
+  361  vim Workbook3.txt 
+  362  dos2unix Workbook3.txt 
+  363  vim Workbook3.txt 
+  364  ls
+  365  vim Workbook3.txt 
+  366  vim Workbook3.txt 
+  367  dos2unix Workbook3.txt 
+  368  vim Workbook3.txt 
+  369  unix2dos Workbook3.txt 
+  370  vim Workbook3.txt 
+  371  ls
+  372  dos2unix Workbook3.txt w.txt
+  373  dos2unix Workbook3.txt ./w.txt
+  374  dos2unix Workbook3.txt ./w
+  375  dos2unix Workbook3.txt ./abc.txt
+  376  vim Workbook3.txt 
+  377  dos2unix Workbook3.txt
+  378  vim Workbook3.txt 
+  379  vim Copy\ of\ APE\ Mapping\ Table\ Update\,\ Append\,\ DE\ and\ JP\ Data\(4\).txt 
+  380  dos2unix Copy\ of\ APE\ Mapping\ Table\ Update\,\ Append\,\ DE\ and\ JP\ Data\(4\).txt 
+  381  vim Copy\ of\ APE\ Mapping\ Table\ Update\,\ Append\,\ DE\ and\ JP\ Data\(4\).txt 
+  382  vim file 
+  383  vim file
+  384  vim file.txt
+  385  vim ape_fe_v2
+  386  ls
+  387  cd Desktop
+  388  vim ape_fe_v2
+  389  vim ape_fe_v2
+  390  vim ape_eu_fe
+  391  vim ape_eu_fe
+  392  vim ape_fe_v3
+  393  dev
+  394  dev
+  395  dev
+  396  dev
+  397  dev
+  398  cd $HOME
+  399  dev
+  400  dev
+  401  LS
+  402  cd eclipse
+  403  ls
+  404  cd java-oxygen/
+  405  ls
+  406  cd ~
+  407  eclipse-workspace/
+  408  ls
+  409  cd eclipse-workspace
+  410  ls
+  411  mv Java-Prerequisite/
+  412  ls
+  413  rmdir Java-Prerequisite/
+  414  ls
+  415  rm -rf Java-Prerequisite/
+  416  ls
+  417  ls
+  418  cd Desktop
+  419  ls
+  420  scp runJobOnDataNet_DE_v2.sh mengfanw@dev-dsk-mengfanw-2a-736c2399.us-west-2.amazon.com:~
+  421  scp runJobOnDataNet_DE_v2.sh mengfanw@dev-dsk-mengfanw-2a-736c2399.us-west-2.amazon.com:~
+  422  scp D_PN_INV_COST_TXN_ADT.sql mengfanw@dev-dsk-mengfanw-2a-736c2399.us-west-2.amazon.com:~
+  423  dev
+  424  cd U-HAUL/
+  425  ls
+  426  ls -G
+  427  cd ~
+  428  cd Desktop
+  429  ls
+  430  vim IT\ ES\ Mapping\ Update\,\ 8-24.txt 
+  431  open ~
+  432  ls
+  433  xcode-select --install
+  434  ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  435  brew analytics off
+  436  brew help
+  437  brew install bash
+  438  echo '/usr/local/bin/bash/ | sudo tee -a /etc/shells
+  439  echo '/usr/local/bin/bash/' | sudo tee -a /etc/shells
+  440  chsh -s /usr/local/bin/bash
+  441  bash -version
+  442  whoami
+  443  curl -fsSL https://git.io/v50Ta | ruby
+  444  ls
+  445  Desktop/
+  446  Desktop/
+  447  Desktop
+  448  whoami
+  449  curl -fsSL https://git.io/v50Ta | ruby
+  450  Desktop
+  451  Desktop/
+  452  Desktop
+  453  cat /etc/shells
+  454  chsh -s /usr/local/bin/bash
+  455  sudo nano /etc/shells 
+  456  chsh -s /usr/local/bin/bash
+  457  ls
+  458  pwd
+  459  ls -a
+  460  Desktop/
+  461  chsh -s /usr/local/bin/bash
+  462  Desktop/
+  463  curl -fsSL https://git.io/v50Ta | ruby
+  464  Desktop/
+  465  brew install git
+  466  git --version
+  467  brew install bash-completion
+  468  curl -fsSL https://git.io/v504A | ruby
+  469  git config --global user.name 'Mengfan Wang'
+  470  git config --global user.email mengfanw@amazon.com
+  471  git config --list
+  472  curl -fsSL https://git.io/v500H | sh
+  473  git config --list
+  474  whoami
+  475  ls
+  476  ls Desktop/
+  477  open .
+  478  cd Desktop/
+  479  open .
+  480  ls -l
+  481  ls -h
+  482  ls -h
+  483  ls -hl
+  484  ll
+  485  cd ..
+  486  ll
+  487  ls -how
+  488  ls -a
+  489  la
+  490  ll
+  491  ls -l -h
+  492  ls -hl
+  493  ls -lh
+  494  man ls
+  495  man mkdir
+  496  env
+  497  echo $SHELL
+  498  echo $PATH
+  499  echo $EDITOR
+  500  nano ~/.bash_profile
+  501  echo $EDITOR
+  502  cd Desktop/
+  503  ls
+  504  evn
+  505  env
+  506  ls
+  507  echo $PATH
+  508  ls /apollo/env/SDETools/bi
+  509  ls /apollo/env/SDETools/bin
+  510  brew install tree
+  511  tree ~
+  512  tree -L 1 ~
+  513  Root directory
+  514  cd ..
+  515  Root directory
+  516  cd /
+  517  cd ..
+  518  cd ~
+  519  tree ~
+  520  tree -L 1 ~
+  521  cd /
+  522  ll
+  523  cd ~
+  524  cd 
+  525  cd ..
+  526  cd ~/Documents/../
+  527  ll Applications/
+  528  cd /Application/
+  529  cd /Applications/
+  530  cd ..
+  531  cd ~
+  532  cd /
+  533  ls ~/Applications/
+  534  ll Applications/
+  535  ll
+  536  cd ../..
+  537  cd ...
+  538  CRUD
+  539  cd ~
+  540  mkdir ~/Projects
+  541  cd Projects
+  542  mkdir week01
+  543  cd week01
+  544  mkdir notebook
+  545  touch notes.txt
+  546  ls
+  547  ls notes.txt
+  548  cat notes.txt
+  549  nano notes.txt
+  550  atom notes.txt
+  551  cd ~
+  552  man cat
+  553  ls
+  554  cd Projects
+  555  ls
+  556  man touch
+  557  cd ~
+  558  cd Desktop
+  559  touch notes.txt
+  560  cat notes.txt
+  561  nano notes.txt 
+  562  mv notes.txt commands.txt
+  563  cp commands.txt moar_commands.txt
+  564  ||
+  565  || shell
+  566  ll
+  567  ll shell
+  568  top
+  569  top
+  570  clear
+  571  cd ~
+  572* 
+  573  clear
+  574  clear
+  575  clear
+  576  1h
+  577  cd Desktop/
+  578  cat commands.txt moar_commands.txt 
+  579  clear
+  580  ls
+  581  rm commands.txt 
+  582  ls
+  583  ps auxwww | grep google
+  584  ps mengfanw | grep google
+  585  grep google
+  586  clear
+  587  cd
+  588  ls
+  589  mkdir ~/Projects
+  590  cd Projects
+  591  ls
+  592  cd ..
+  593  ls
+  594  cd Desktop
+  595  ls
+  596  nano moar_commands.txt 
+  597  nano moar_commands.txt 
+  598  cd ..
+  599  cd Projects/
+  600  mkdir week01
+  601  cd ..
+  602  cd Desktop/
+  603  ls
+  604  pbcopy < moar_commands.txt 
+  605  pbpaste
+  606  pbpaste > paste-test.txt
+  607  ls
+  608  nano moar_commands.txt 
+  609  find /Users/mengfanw/Desktop/ -name "paste-test.txt" 
+  610  grep "a" paste-test.txt 
+  611  cd ..
+  612  cd Projects/
+  613  echo $?
+  614  mkdir notebook
+  615  cd notebook/
+  616  cd..
+  617  cd ..
+  618  cd week01/
+  619  mkdir notebook
+  620  ls
+  621  cd ..
+  622  ls
+  623  rm notebook/
+  624  rm -r notebook/
+  625  ls
+  626  cd week01/
+  627  ls
+  628  cd notebook
+  629  ls
+  630  touch notes.txt
+  631  ls
+  632  cat notes.txt 
+  633  nano notes.txt 
+  634  nano notes.txt 
+  635  cat notes.txt 
+  636  mv notes.txt commands.txt
+  637  ll
+  638  cd ..
+  639  ls
+  640  rm notes.txt 
+  641  ls
+  642  mkdir temp
+  643  cd notebook/
+  644  ls
+  645  mv commands.txt ../temp
+  646  ls
+  647  cd ..
+  648  cd temp
+  649  ls
+  650  cd ..
+  651  cd notebook/
+  652  cp ../temp/notes.txt ./
+  653  cd ..
+  654  cd temp/
+  655  ls
+  656  cp commands.txt ../notebook/
+  657  cd ..
+  658  cd notebook/
+  659  ls
+  660  cat commands.txt 
+  661  cp commands.txt 'my notes'
+  662  ls
+  663  cat 'my notes' 
+  664  cat my\ notes
+  665  touch notes
+  666  ll
+  667  touch Notes
+  668  ll
+  669  rm my\ notes 
+  670  ls
+  671  ll
+  672  cd ..
+  673  rmdir notebook/
+  674  rm -r notebook/
+  675  man NUM
+  676  man !
+  677  history > notes.txt
+  678  ls
+  679  cat notes.txt 
+  680  cd ..
+  681  ls
+  682  cd week01/
+  683  ls
+  684  git clone https://github.com/amazon-technical-academy/command-line-murder-mystery-MengfanWang.git
+  685  ls
+  686  cd command-line-murder-mystery-MengfanWang/
+  687  ll
+  688  ls
+  689  cat instructions 
+  690  cd ..
+  691  cd ..
+  692  ls
+  693  ls
+  694  cd week01/
+  695  ls
+  696  mkdir bash
+  697  ls
+  698  mv notes.txt bash
+  699  ls
+  700  ls bash/
+  701  ls
+  702  cd command-line-murder-mystery-MengfanWang/
+  703  cd ..
+  704  ls
+  705  mkdir notebook/notebook
+  706  mkdir -p notebook/notebook
+  707  cd notebook/
+  708  ls
+  709  history
+  710  clear
+  711  cd 
+  712  clear
+  713  cd Projects/
+  714  cd week
+  715  cd week01/
+  716  cd notebook/
+  717  history
+  718  ! 710
+  719  ! 710
+  720  clear
+  721  history > notes
+  226  ls
+  227  cat ./Tommy_Asin_Schema | cut -d ',' -f2 > ./Tommy_Asin_Schema_v2.txt
+  228  cat ./Tommy_Asin_Schema | cut -d ',' -f2 > ./Tommy_Asin_Schema_v3.txt
+  229  vim Tommy_Asin_Schema_v3.txt
+  230  cat Tommy_Asin_Schema.txt | tr -d ' ' | cut -d',' -f2
+  231  cat ./Tommy_Asin_Schema.txt | tr -d ' ' | cut -d',' -f2
+  232  ls
+  233  cat ./Tommy_Asin_Schema | tr -d ' ' | cut -d',' -f2
+  234  vim Tommy_Asin_Schema
+  235  cd Desktop
+  236  vim D_PN_FC_REPLEN_CONFIG.txt
+  237  vim D_PN_FC_REPLEN_CONFIG_File.tsv 
+  238  vim D_PN_FC_REPLEN_CONFIG_File.tsv 
+  239  vim D_PN_FC_REPLEN_CONFIG_File.tsv 
+  240  sed -i 's/^M//' D_PN_FC_REPLEN_CONFIG_File.tsv 
+  241  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  242  brew install dos2unix
+  243  ls
+  244  dos2unix D_PN_FC_REPLEN_CONFIG_File.tsv 
+  245  vim D_PN_FC_REPLEN_CONFIG_File.tsv 
+  246  dos2unix D_PN_FC_REPLEN_CONFIG_File.tsv 
+  247  vim D_PN_FC_REPLEN_CONFIG_File.tsv 
+  248  vim D_PN_FC_REPLEN_CONFIG_File.tsv 
+  249  dos2unix -n D_PN_FC_REPLEN_CONFIG_File.tsv 
+  250  vim D_PN_FC_REPLEN_CONFIG_File.tsv 
+  251  dos2unix -n D_PN_FC_REPLEN_CONFIG_File.tsv D_PN_FC_REPLEN_CONFIG_File.tsv 
+  252  vim D_PN_FC_REPLEN_CONFIG_File.tsv 
+  253  dos2unix -n D_PN_FC_REPLEN_CONFIG_File.tsv D_PN_FC_REPLEN_CONFIG_File_unix.tsv 
+  254  vim D_PN_FC_REPLEN_CONFIG_File_unix.tsv 
+  255  mac2unix -n D_PN_FC_REPLEN_CONFIG_File.tsv D_PN_FC_REPLEN_CONFIG_File_unix.tsv 
+  256  vim D_PN_FC_REPLEN_CONFIG_File_unix.tsv 
+  257  dev
+  258  cdw
+  259  pwd
+  260  ls
+  261  cd Desktop
+  262  ls
+  263  scp D_PN_FC_REPLEN_CONFIG-3.txt mengfanw@dev-dsk-mengfanw-2a-736c2399.us-west-2.amazon.com:~
+  264  dev
+  265  cd Desktop
+  266  pdw
+  267  pwd
+  268  scp D_PN_FC_REPLEN_CONFIG-3.txt mengfanw@dev-dsk-mengfanw-2a-736c2399.us-west-2.amazon.com:~
+  269  dev
+  270  dev
+  271  dev
+  272  dev
+  273  /apollo/env/DatanetService(Kerberos|AAA)Client/bin/datanet --method POST --field jobRuns --uri jobRun/-/10928123/2017-06-13
+  274  dev
+  275  dev
+  276  wq
+  277  cd Desktop/
+  278  vim D_PN_FC_REPLEN_CONFIG_File.tsv 
+  279  mac2unix -n D_PN_FC_REPLEN_CONFIG_File.tsv D_PN_FC_REPLEN_CONFIG_File.tsv 
+  280  vim D_PN_FC_REPLEN_CONFIG_File.tsv 
+  281  scp Force_Dependency.sh mengfanw@dev-dsk-mengfanw-2a-736c2399.us-west-2.amazon.com:~
+  282  dev
+  283  dev
+  284  dev
+  285  wq
+  286  dev
+  287  dev
+  288  dev
+  289  cd Desktop
+  290  vim REPLEN_CONFIG_620.txt 
+  291  mac2unix REPLEN_CONFIG_620.txt 
+  292  vim REPLEN_CONFIG_620.txt 
+  293  vim REPLEN_CONFIG_620.txt 
+  294  ls
+  295  cd Desktop
+  296  ls
+  297  vim lead_time_6_6.txt 
+  298  dev
+  299  cd Desktop
+  300  vim REPLEN_CONFIG_620.txt 
+  301  vim REPLEN_CONFIG_620.txt 
+  302  vim lead_time_6_6.txt
+  303  dve
+  304  dev
+  305  ls
+  306  cd Desktop
+  307  ls
+  308  vim jour
+  309  dev
+  310  dev
+  311  dev
+  312  pwd
+  313  cd Desktop
+  314  ls
+  315  vim FC_REPLEN_CONFIG_620 
+  316  dev
+  317  dev
+  318  dev
+  319  dev
+  320  vi ~/Desktop/untitled.c 
+  321  vim ~/Desktop/untitled.c 
+  322  dev
+  323  cd Desktop
+  324  mv problems-find find
+  325  cd find
+  326  ls
+  327  pwd
+  328  dev
+  329  cd Desktop
+  330  pwd
+  331  ls
+  332  scp o-pn-ape-subcat-mapping.txt mengfanw@dev-dsk-mengfanw-2a-736c2399.us-west-2.amazon.com:~
+  333  cd Desktop/
+  334  ls
+  335  vim file
+  336  vim file.txt 
+  337  vim file.txt 
+  338  vim ape_data 
+  339  vim ape_data_2
+  340  vim ape_na
+  341  vim ape_fe
+  342  vim ape_fe
+  343  ls
+  344  vim ape_fe
+  345  vim ape_f
+  346  vim ape_fe
+  347  vim ape_fe_v2 
+  348  dos2unix ape_fe_v2
+  349  vim ape_fe_v2 
+  350  vim ape_fe_v2 
+  351  cd Desktop
+  352  ls
+  353  vim APE\ Mapping\ Table\ Update\ JP\ Data.txt 
+  354  ls
+  355  vim Workbook3.txt 
+  356  vim Workbook3.txt 
+  357  vim Workbook3.txt 
+  358  vim Workbook3.txt 
+  359  vim Workbook3.txt 
+  360  vim Workbook3.txt 
+  361  vim Workbook3.txt 
+  362  dos2unix Workbook3.txt 
+  363  vim Workbook3.txt 
+  364  ls
+  365  vim Workbook3.txt 
+  366  vim Workbook3.txt 
+  367  dos2unix Workbook3.txt 
+  368  vim Workbook3.txt 
+  369  unix2dos Workbook3.txt 
+  370  vim Workbook3.txt 
+  371  ls
+  372  dos2unix Workbook3.txt w.txt
+  373  dos2unix Workbook3.txt ./w.txt
+  374  dos2unix Workbook3.txt ./w
+  375  dos2unix Workbook3.txt ./abc.txt
+  376  vim Workbook3.txt 
+  377  dos2unix Workbook3.txt
+  378  vim Workbook3.txt 
+  379  vim Copy\ of\ APE\ Mapping\ Table\ Update\,\ Append\,\ DE\ and\ JP\ Data\(4\).txt 
+  380  dos2unix Copy\ of\ APE\ Mapping\ Table\ Update\,\ Append\,\ DE\ and\ JP\ Data\(4\).txt 
+  381  vim Copy\ of\ APE\ Mapping\ Table\ Update\,\ Append\,\ DE\ and\ JP\ Data\(4\).txt 
+  382  vim file 
+  383  vim file
+  384  vim file.txt
+  385  vim ape_fe_v2
+  386  ls
+  387  cd Desktop
+  388  vim ape_fe_v2
+  389  vim ape_fe_v2
+  390  vim ape_eu_fe
+  391  vim ape_eu_fe
+  392  vim ape_fe_v3
+  393  dev
+  394  dev
+  395  dev
+  396  dev
+  397  dev
+  398  cd $HOME
+  399  dev
+  400  dev
+  401  LS
+  402  cd eclipse
+  403  ls
+  404  cd java-oxygen/
+  405  ls
+  406  cd ~
+  407  eclipse-workspace/
+  408  ls
+  409  cd eclipse-workspace
+  410  ls
+  411  mv Java-Prerequisite/
+  412  ls
+  413  rmdir Java-Prerequisite/
+  414  ls
+  415  rm -rf Java-Prerequisite/
+  416  ls
+  417  ls
+  418  cd Desktop
+  419  ls
+  420  scp runJobOnDataNet_DE_v2.sh mengfanw@dev-dsk-mengfanw-2a-736c2399.us-west-2.amazon.com:~
+  421  scp runJobOnDataNet_DE_v2.sh mengfanw@dev-dsk-mengfanw-2a-736c2399.us-west-2.amazon.com:~
+  422  scp D_PN_INV_COST_TXN_ADT.sql mengfanw@dev-dsk-mengfanw-2a-736c2399.us-west-2.amazon.com:~
+  423  dev
+  424  cd U-HAUL/
+  425  ls
+  426  ls -G
+  427  cd ~
+  428  cd Desktop
+  429  ls
+  430  vim IT\ ES\ Mapping\ Update\,\ 8-24.txt 
+  431  open ~
+  432  ls
+  433  xcode-select --install
+  434  ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  435  brew analytics off
+  436  brew help
+  437  brew install bash
+  438  echo '/usr/local/bin/bash/ | sudo tee -a /etc/shells
+  439  echo '/usr/local/bin/bash/' | sudo tee -a /etc/shells
+  440  chsh -s /usr/local/bin/bash
+  441  bash -version
+  442  whoami
+  443  curl -fsSL https://git.io/v50Ta | ruby
+  444  ls
+  445  Desktop/
+  446  Desktop/
+  447  Desktop
+  448  whoami
+  449  curl -fsSL https://git.io/v50Ta | ruby
+  450  Desktop
+  451  Desktop/
+  452  Desktop
+  453  cat /etc/shells
+  454  chsh -s /usr/local/bin/bash
+  455  sudo nano /etc/shells 
+  456  chsh -s /usr/local/bin/bash
+  457  ls
+  458  pwd
+  459  ls -a
+  460  Desktop/
+  461  chsh -s /usr/local/bin/bash
+  462  Desktop/
+  463  curl -fsSL https://git.io/v50Ta | ruby
+  464  Desktop/
+  465  brew install git
+  466  git --version
+  467  brew install bash-completion
+  468  curl -fsSL https://git.io/v504A | ruby
+  469  git config --global user.name 'Mengfan Wang'
+  470  git config --global user.email mengfanw@amazon.com
+  471  git config --list
+  472  curl -fsSL https://git.io/v500H | sh
+  473  git config --list
+  474  whoami
+  475  ls
+  476  ls Desktop/
+  477  open .
+  478  cd Desktop/
+  479  open .
+  480  ls -l
+  481  ls -h
+  482  ls -h
+  483  ls -hl
+  484  ll
+  485  cd ..
+  486  ll
+  487  ls -how
+  488  ls -a
+  489  la
+  490  ll
+  491  ls -l -h
+  492  ls -hl
+  493  ls -lh
+  494  man ls
+  495  man mkdir
+  496  env
+  497  echo $SHELL
+  498  echo $PATH
+  499  echo $EDITOR
+  500  nano ~/.bash_profile
+  501  echo $EDITOR
+  502  cd Desktop/
+  503  ls
+  504  evn
+  505  env
+  506  ls
+  507  echo $PATH
+  508  ls /apollo/env/SDETools/bi
+  509  ls /apollo/env/SDETools/bin
+  510  brew install tree
+  511  tree ~
+  512  tree -L 1 ~
+  513  Root directory
+  514  cd ..
+  515  Root directory
+  516  cd /
+  517  cd ..
+  518  cd ~
+  519  tree ~
+  520  tree -L 1 ~
+  521  cd /
+  522  ll
+  523  cd ~
+  524  cd 
+  525  cd ..
+  526  cd ~/Documents/../
+  527  ll Applications/
+  528  cd /Application/
+  529  cd /Applications/
+  530  cd ..
+  531  cd ~
+  532  cd /
+  533  ls ~/Applications/
+  534  ll Applications/
+  535  ll
+  536  cd ../..
+  537  cd ...
+  538  CRUD
+  539  cd ~
+  540  mkdir ~/Projects
+  541  cd Projects
+  542  mkdir week01
+  543  cd week01
+  544  mkdir notebook
+  545  touch notes.txt
+  546  ls
+  547  ls notes.txt
+  548  cat notes.txt
+  549  nano notes.txt
+  550  atom notes.txt
+  551  cd ~
+  552  man cat
+  553  ls
+  554  cd Projects
+  555  ls
+  556  man touch
+  557  cd ~
+  558  cd Desktop
+  559  touch notes.txt
+  560  cat notes.txt
+  561  nano notes.txt 
+  562  mv notes.txt commands.txt
+  563  cp commands.txt moar_commands.txt
+  564  ||
+  565  || shell
+  566  ll
+  567  ll shell
+  568  top
+  569  top
+  570  clear
+  571  cd ~
+  572* 
+  573  clear
+  574  clear
+  575  clear
+  576  1h
+  577  cd Desktop/
+  578  cat commands.txt moar_commands.txt 
+  579  clear
+  580  ls
+  581  rm commands.txt 
+  582  ls
+  583  ps auxwww | grep google
+  584  ps mengfanw | grep google
+  585  grep google
+  586  clear
+  587  cd
+  588  ls
+  589  mkdir ~/Projects
+  590  cd Projects
+  591  ls
+  592  cd ..
+  593  ls
+  594  cd Desktop
+  595  ls
+  596  nano moar_commands.txt 
+  597  nano moar_commands.txt 
+  598  cd ..
+  599  cd Projects/
+  600  mkdir week01
+  601  cd ..
+  602  cd Desktop/
+  603  ls
+  604  pbcopy < moar_commands.txt 
+  605  pbpaste
+  606  pbpaste > paste-test.txt
+  607  ls
+  608  nano moar_commands.txt 
+  609  find /Users/mengfanw/Desktop/ -name "paste-test.txt" 
+  610  grep "a" paste-test.txt 
+  611  cd ..
+  612  cd Projects/
+  613  echo $?
+  614  mkdir notebook
+  615  cd notebook/
+  616  cd..
+  617  cd ..
+  618  cd week01/
+  619  mkdir notebook
+  620  ls
+  621  cd ..
+  622  ls
+  623  rm notebook/
+  624  rm -r notebook/
+  625  ls
+  626  cd week01/
+  627  ls
+  628  cd notebook
+  629  ls
+  630  touch notes.txt
+  631  ls
+  632  cat notes.txt 
+  633  nano notes.txt 
+  634  nano notes.txt 
+  635  cat notes.txt 
+  636  mv notes.txt commands.txt
+  637  ll
+  638  cd ..
+  639  ls
+  640  rm notes.txt 
+  641  ls
+  642  mkdir temp
+  643  cd notebook/
+  644  ls
+  645  mv commands.txt ../temp
+  646  ls
+  647  cd ..
+  648  cd temp
+  649  ls
+  650  cd ..
+  651  cd notebook/
+  652  cp ../temp/notes.txt ./
+  653  cd ..
+  654  cd temp/
+  655  ls
+  656  cp commands.txt ../notebook/
+  657  cd ..
+  658  cd notebook/
+  659  ls
+  660  cat commands.txt 
+  661  cp commands.txt 'my notes'
+  662  ls
+  663  cat 'my notes' 
+  664  cat my\ notes
+  665  touch notes
+  666  ll
+  667  touch Notes
+  668  ll
+  669  rm my\ notes 
+  670  ls
+  671  ll
+  672  cd ..
+  673  rmdir notebook/
+  674  rm -r notebook/
+  675  man NUM
+  676  man !
+  677  history > notes.txt
+  678  ls
+  679  cat notes.txt 
+  680  cd ..
+  681  ls
+  682  cd week01/
+  683  ls
+  684  git clone https://github.com/amazon-technical-academy/command-line-murder-mystery-MengfanWang.git
+  685  ls
+  686  cd command-line-murder-mystery-MengfanWang/
+  687  ll
+  688  ls
+  689  cat instructions 
+  690  cd ..
+  691  cd ..
+  692  ls
+  693  ls
+  694  cd week01/
+  695  ls
+  696  mkdir bash
+  697  ls
+  698  mv notes.txt bash
+  699  ls
+  700  ls bash/
+  701  ls
+  702  cd command-line-murder-mystery-MengfanWang/
+  703  cd ..
+  704  ls
+  705  mkdir notebook/notebook
+  706  mkdir -p notebook/notebook
+  707  cd notebook/
+  708  ls
+  709  history
+  710  clear
+  711  cd 
+  712  clear
+  713  cd Projects/
+  714  cd week
+  715  cd week01/
+  716  cd notebook/
+  717  history
+  718  ! 710
+  719  ! 710
+  720  clear
+  721  history > notes
+  722  ls
+  723  cat notes
+  724  ll
+  725  history >> notes
